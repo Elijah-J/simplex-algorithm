@@ -1,6 +1,6 @@
 # Simplex Algorithm
 Implementation of the simplex algorithm, a classical algorithm in linear optimization. 
-Able to detect unbounded and infeasible datasets.
+Able to detect unbounded and infeasible datasets. Able to perform the two-phase simplex algorithm.
 
 # Usage
 Working directory must obtain the following three files:
