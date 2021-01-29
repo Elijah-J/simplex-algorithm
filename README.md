@@ -10,4 +10,5 @@ Working directory must obtain the following three files:
 
 # What I learned
 * How to use NumPy
- * How to parse a .csv file using NumPy
+   * parse a .csv file using NumPy
+   * perform common vector/matrix operations
