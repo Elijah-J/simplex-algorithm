@@ -9,6 +9,5 @@ Working directory must obtain the following three files:
   * c.csv - objective function
 
 # What I learned
-* How to use NumPy; implemented various NumPy functions and objects
-* Became more competent with Python objects and syntax
-* How to parse a .csv file using NumPy
+* How to use NumPy
+ * How to parse a .csv file using NumPy
